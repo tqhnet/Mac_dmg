@@ -3,3 +3,5 @@
 Registered Name:https://zhile.io
 License Key: 48891cf209c6d32bf4
 感谢作者提供：https://www.jianshu.com/p/89111882fa99
+越狱可以进行完全抓包
+https抓包教程：https://blog.csdn.net/abld99/article/details/74011480
